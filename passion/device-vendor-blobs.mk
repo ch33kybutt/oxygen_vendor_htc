@@ -3,7 +3,6 @@ PRODUCT_COPY_FILES := \
 
 PRODUCT_COPY_FILES += \
     vendor/htc/passion/proprietary/akmd:system/bin/akmd \
-    vendor/htc/passion/proprietary/mm-venc-omx-test:system/bin/mm-venc-omx-test \
     vendor/htc/passion/proprietary/parse_radio_log:system/bin/parse_radio_log \
     vendor/htc/passion/proprietary/AdieHWCodecSetting.csv:system/etc/AdieHWCodecSetting.csv \
     vendor/htc/passion/proprietary/AudioBTID.csv:system/etc/AudioBTID.csv \
