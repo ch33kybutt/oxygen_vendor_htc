@@ -1,3 +1,1 @@
-BOARD_GPS_LIBRARIES := libgps
-
 USE_CAMERA_STUB := false
